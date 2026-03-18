@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Build artifacts
+LemonTimer.app/
+
+# Source audio files (mixed version is included)
+509950__talitha5__bustling-cafe-ambience.m4a
+Endless Third Cup.mp3
+
+# Processed icon (iconset is included instead)
+icon_final.png
+icon.jpg
