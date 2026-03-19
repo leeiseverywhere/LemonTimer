@@ -104,7 +104,7 @@ class AppDelegate: NSObject, NSApplicationDelegate, UNUserNotificationCenterDele
     func buildMenu() {
         menu = NSMenu()
 
-        timerMenuItem = NSMenuItem(title: "⏱ Flow Timer — Ready", action: nil, keyEquivalent: "")
+        timerMenuItem = NSMenuItem(title: "⏱ LemonTimer — Ready", action: nil, keyEquivalent: "")
         timerMenuItem.isEnabled = false
         menu.addItem(timerMenuItem)
         menu.addItem(NSMenuItem.separator())
@@ -218,7 +218,7 @@ class AppDelegate: NSObject, NSApplicationDelegate, UNUserNotificationCenterDele
         remainingSeconds = 0
         isWorkSession = true
         startPauseMenuItem.title = "▶ Start"
-        timerMenuItem.title = "⏱ Flow Timer — Ready"
+        timerMenuItem.title = "⏱ LemonTimer — Ready"
         setButtonTitle(isNoisePlaying ? "🍋🎵 00:00" : "🍋 00:00")
     }
 

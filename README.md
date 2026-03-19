@@ -4,6 +4,15 @@ A minimal macOS menu bar timer for focused work sessions, with built-in cafe amb
 
 ![macOS](https://img.shields.io/badge/macOS-13%2B-yellow) ![Swift](https://img.shields.io/badge/Swift-5.9-orange) ![License](https://img.shields.io/badge/License-MIT-green)
 
+<p align="center">
+  <img src="screenshots/idle.png" width="260" />
+  <img src="screenshots/running.png" width="260" />
+</p>
+<p align="center">
+  <img src="screenshots/notification.png" width="400" />
+  <img src="screenshots/icon.png" width="140" />
+</p>
+
 ## Features
 
 - **Menu bar timer** — Lives in your status bar, always visible while you work
@@ -20,7 +29,7 @@ A minimal macOS menu bar timer for focused work sessions, with built-in cafe amb
 Requires macOS 13+ and Xcode Command Line Tools (`xcode-select --install`).
 
 ```bash
-git clone https://github.com/hyunalee/LemonTimer.git
+git clone https://github.com/leeiseverywhere/LemonTimer.git
 cd LemonTimer
 bash build_and_run.sh
 ```
@@ -57,7 +66,7 @@ macOS 메뉴바에서 동작하는 집중 타이머. 카페 배경음 내장.
 macOS 13 이상 + Xcode Command Line Tools 필요 (`xcode-select --install`)
 
 ```bash
-git clone https://github.com/hyunalee/LemonTimer.git
+git clone https://github.com/leeiseverywhere/LemonTimer.git
 cd LemonTimer
 bash build_and_run.sh
 ```
