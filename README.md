@@ -5,10 +5,10 @@ A minimal macOS menu bar timer for focused work sessions, with built-in cafe amb
 ![macOS](https://img.shields.io/badge/macOS-13%2B-yellow) ![Swift](https://img.shields.io/badge/Swift-5.9-orange) ![License](https://img.shields.io/badge/License-MIT-green)
 
 <p align="center">
-  <img src="screenshots/icon.png" width="220" />
-  <img src="screenshots/idle.png" width="220" />
-  <img src="screenshots/running.png" width="220" />
-  <img src="screenshots/notification.png" width="220" />
+  <img src="screenshots/icon.png" width="200" />
+  <img src="screenshots/idle.png" width="200" />
+  <img src="screenshots/running.png" width="200" />
+  <img src="screenshots/notification.png" width="200" />
   
 </p>
 
